@@ -1,0 +1,2 @@
+Enter the two integer values i1 and i2 of the structure passed to struct_by_ref, it returns 42
+Success!

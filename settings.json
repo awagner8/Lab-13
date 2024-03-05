@@ -1,0 +1,15 @@
+{
+  "test_dir": "tests",
+  "mode": "exe",
+  "test_suite_names": ["mystery4"],
+  "non_zero_exit_status_penalty": 0.75,
+  "memory_penalty": 0.5,
+  "test_suites": {
+    "mystery4": [
+      { "desc": "struct_by_ref",  "args": ["1"],  "diff": "normal", "infile": "solution_f1.txt", "outfile": "", "valgrind": false, "points": 30 },
+      { "desc": "set_struct_vals",  "args": ["2"],  "diff": "normal", "infile": "solution_f2.txt", "outfile": "", "valgrind": false, "points": 30 },
+      { "desc": "find_in_list",  "args": ["3"],  "diff": "normal", "infile": "solution_f3.txt", "outfile": "", "valgrind": false, "points": 40 },
+      { "desc": "Extra Credit struct_by_val",  "args": ["4"],  "diff": "normal", "infile": "solution_f4.txt", "outfile": "", "valgrind": false, "points": 10 }
+    ]
+  }
+}

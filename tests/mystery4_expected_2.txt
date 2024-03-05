@@ -1,0 +1,2 @@
+Enter three integers: 1) the return value of access_list, 2) which node in the list (numbered starting from 1 2 3 ..) contains the value, and 3) the total number of nodes in the list.
+Success!

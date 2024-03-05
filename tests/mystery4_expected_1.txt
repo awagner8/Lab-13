@@ -1,0 +1,3 @@
+Enter the arguments idx, a and b to set_struct_vals, then the initial values of i1 and i2 in the structure array1[idx]
+ calling set_struct_vals now...
+Success!

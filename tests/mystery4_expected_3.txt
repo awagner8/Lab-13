@@ -1,0 +1,2 @@
+OPTIONAL PROBLEM: Enter the two integer values i1 and i2 of the structure passed to struct_by_val, it returns 10
+Success!
